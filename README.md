@@ -1,8 +1,29 @@
-# React + Vite
+# OikiaBase - Property Management Simplified
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+OikiaBase is a lightweight property management app designed for smaller landlords. It helps streamline rent collection, maintenance requests, and tenant communication in an easy-to-use interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚧 Status: Work in Progress 🚧
+
+OikiaBase is currently under development. Features and documentation are subject to change as the project evolves.
+
+---
+
+## Features
+
+### Current
+
+- Basic project structure set up with Vite and React
+
+### Planned
+
+- **Rent Collection**: Simplified payment processing for tenants and landlords
+- **Maintenance Requests**: Track and manage tenant-reported issues
+- **Tenant Communication**: Integrated chat or notification system
+- **Dashboard**: Overview of properties, payments, and maintenance
+- **Customizable Features**: Adaptable options for different landlord needs
+
+---
+
+> _Note: This app is still in development. Once fully functional, these steps will be updated._
