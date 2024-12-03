@@ -23,7 +23,3 @@ OikiaBase is currently under development. Features and documentation are subject
 - **Tenant Communication**: Integrated chat or notification system
 - **Dashboard**: Overview of properties, payments, and maintenance
 - **Customizable Features**: Adaptable options for different landlord needs
-
----
-
-> _Note: This app is still in development. Once fully functional, these steps will be updated._
