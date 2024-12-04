@@ -2,7 +2,7 @@ import React from 'react'
 
 function MaintenanceRequests() {
   return (
-    <div>MaintenanceRequests</div>
+    <h1>Maintenance</h1>
   )
 }
 

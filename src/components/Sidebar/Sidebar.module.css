@@ -1,0 +1,37 @@
+.sidebar {
+  width: 300px;
+  height: 100vh;
+  background-color: #2c3e50;
+  color: #ecf0f1;
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+}
+
+.nav {
+    margin-top: 45px;
+}
+
+.navList {
+  list-style: none;
+  padding: 0;
+}
+
+.navItem {
+  margin: 10px 0;
+}
+
+.navLink,
+.active {
+  font-size: 24px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.navLink {
+  color: #fff;
+}
+
+.active {
+  color: #3498db;
+}
