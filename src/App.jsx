@@ -5,9 +5,11 @@ import Dashboard from "./pages/Dashboard";
 import Properties from "./pages/Properties";
 import MaintenanceRequests from "./pages/MaintenanceRequests";
 import Settings from "./pages/Settings";
+import ErrorPage from "./pages/ErrorPage";
 import "./App.css";
 
 function App() {
+  
   return (
     <div className="app-container">
       <Sidebar />
@@ -20,6 +22,7 @@ function App() {
             element={<MaintenanceRequests />}
           />
           <Route path="/settings" element={<Settings />} />
+          <Route path="*" element={<ErrorPage />} />
         </Routes>
       </PageLayout>
     </div>
